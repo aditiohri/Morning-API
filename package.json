@@ -1,0 +1,19 @@
+{
+  "name": "morning-api",
+  "version": "1.0.0",
+  "description": "developer blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditiohri/Morning-API.git"
+  },
+  "author": "Aditi Ohri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditiohri/Morning-API/issues"
+  },
+  "homepage": "https://github.com/aditiohri/Morning-API#readme"
+}
